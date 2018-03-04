@@ -10,6 +10,8 @@ Open it in your machine
 
 Make changes or review it.
 
+Here is a link of the deployed site https://mohabake.github.io/pig-dice/
+
 ## Technologies Used
 HTML
 
