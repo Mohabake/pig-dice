@@ -1,12 +1,18 @@
 .player-console {
   display: none;
 }
+body {
+      background-repeat: no-repeat;
+      background-size: auto;
+      background-color: black;
+}
 h1 {
   text-align: center;
   color: Gray;
 }
 #start {
-  color: maroon;
+  color: white;
+  background-color: black;
 }
 #new-game {
   background-color: black;
