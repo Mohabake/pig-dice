@@ -1,10 +1,19 @@
 .player-console {
   display: none;
 }
+.jumbotron {
+   background-image: url(../images/pig.jpg);
+   background-repeat: no-repeat;
+   background-size: 100px;
+}
 body {
       background-repeat: no-repeat;
-      background-size: auto;
-      background-color: black;
+      background-image: url(../images/hack2.jpg);
+      background-size: cover;
+
+}
+.col-md-6 {
+  color:white;
 }
 h1 {
   text-align: center;
@@ -13,8 +22,7 @@ h1 {
 #start {
   color: white;
   background-color: black;
-}
-#new-game {
+}#new-game {
   background-color: black;
   color: white;
   float: right;
