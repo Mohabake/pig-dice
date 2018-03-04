@@ -1,3 +1,31 @@
 .player-console {
   display: none;
 }
+h1 {
+  text-align: center;
+  color: Gray;
+}
+#start {
+  color: maroon;
+}
+#new-game {
+  background-color: black;
+  color: white;
+  float: right;
+}
+#player1-roll {
+  background-color: red;
+  color: black;
+}
+#player2-roll {
+  background-color: red;
+  color: black;
+}
+#player1-hold {
+  background-color: red;
+  color: black;
+}
+#player2-hold {
+  background-color: red;
+  color: black;
+}
